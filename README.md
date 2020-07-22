@@ -2,7 +2,7 @@
 
 ### Recreated Kratoes Axe throw in Unity.
 
-[![Demo Video](https://github.com/anzy03/Unity-God-of-War-Axe-Throw/blob/master/ScreenShot/ezgif-7-f7f35862ef4f.gif)]
+[![Demo Video](https://imgur.com/a/ABzHZAG)]
 
 ### Assets Used.
 
